@@ -4,11 +4,25 @@ An iPad EPUB reader with room to think. Import a DRM-free book, then write direc
 
 > Early prototype. Source-only release. No books or personal notes are included.
 
-## Preview
+![Margin illustrated library: Make the page yours](docs/demo/margin-library.jpg)
 
-[Watch the 20-second overview](docs/demo/margin-overview-20s.mp4) · [Short 10-second cut](docs/demo/margin-overview-10s.mp4)
+## See Margin in motion
 
-These are illustrative animated previews, not app recordings. No personal books or notes are shown.
+Illustrative animated previews, not recordings of the running app. All books, prose and marks shown are original demo content, not a personal library.
+
+### The 20-second overview
+
+https://github.com/user-attachments/assets/449f58af-3ed7-4229-9d72-a28fc728949c
+
+### The 10-second cut
+
+https://github.com/user-attachments/assets/1347e2a4-6853-4c99-8587-bf101bc7583c
+
+Can't see the players? [Open the 20-second video](https://github.com/user-attachments/assets/449f58af-3ed7-4229-9d72-a28fc728949c) · [Open the 10-second video](https://github.com/user-attachments/assets/1347e2a4-6853-4c99-8587-bf101bc7583c)
+
+![Illustrated reading view with a highlight and a handwritten margin note](docs/demo/margin-pencil.jpg)
+
+*Illustrative stills from the demos. Physical Apple Pencil testing remains outstanding.*
 
 ## What works
 
