@@ -10,17 +10,17 @@ It's a small iPad app for reading DRM-free EPUBs and writing on the pages with A
 
 ## A quick look
 
-These videos are animated previews of the idea, not recordings of the running app. The books, prose and handwritten marks are demo content.
+The 20-second overview is an animated preview with demo content. The 30-second launch video combines real iPad screen and camera footage with animation.
 
 ### 20-second overview
 
 https://github.com/user-attachments/assets/449f58af-3ed7-4229-9d72-a28fc728949c
 
-### 10-second cut
+### 30-second launch video
 
-https://github.com/user-attachments/assets/1347e2a4-6853-4c99-8587-bf101bc7583c
+https://github.com/user-attachments/assets/fb0d9cf1-9a46-439d-bb96-029b6f6e3afd
 
-If the players don't appear in your GitHub app, [open the 20-second video](https://github.com/user-attachments/assets/449f58af-3ed7-4229-9d72-a28fc728949c) or [the 10-second video](https://github.com/user-attachments/assets/1347e2a4-6853-4c99-8587-bf101bc7583c) in your browser.
+If the players don't appear in your GitHub app, [open the 20-second video](https://github.com/user-attachments/assets/449f58af-3ed7-4229-9d72-a28fc728949c) or [the 30-second video](https://github.com/user-attachments/assets/fb0d9cf1-9a46-439d-bb96-029b6f6e3afd) in your browser.
 
 ![Illustrated reading view with a highlighted sentence and a handwritten margin note](docs/demo/margin-pencil.jpg)
 
@@ -91,4 +91,4 @@ python3 scripts/test-importer.py
 
 ## License
 
-Code and documentation are [MIT licensed](LICENSE). Books keep their own copyrights. The illustrative videos and stills aren't offered under an additional open media license; see [demo details](docs/demo/README.md).
+Code and documentation are [MIT licensed](LICENSE). Books keep their own copyrights. The promotional videos and illustrative stills aren't offered under an additional open media license; see [demo details](docs/demo/README.md).
